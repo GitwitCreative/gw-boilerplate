@@ -1,7 +1,7 @@
-GitHub Markup
+Gitwit Project Boilerplate
 =============
 
-This boilerplate is the foundation for any Gitwit project. To begin, clone the repository in to your new directory. Each project should be titled "gw-#yourtitlehere#"
+This boilerplate is the foundation for any Gitwit project. To begin, clone the repository in to your new directory. Each project should be titled "gw-projecttitlehere"
 
 Installation
 -----------
