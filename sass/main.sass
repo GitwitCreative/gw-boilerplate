@@ -1,0 +1,32 @@
+=desktop()
+  @media screen and (min-width: 1413px)
+    @content
+=mobile()
+  @media screen and (max-width: 989px)
+    @content
+=laptop()
+  @media screen and (max-width: 1412px)
+    @content
+
+// Color Variables
+
+$hilti-red: #df001b
+
+// Styling Classes
+
+.uppercase
+  text-transform: uppercase
+
+// CSS imports
+
+@import header
+
+//font import
+
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Montserrat|Roboto+Condensed')
+
+// Global Styles
+
+a
+  text-decoration: none
+  color: inherit
