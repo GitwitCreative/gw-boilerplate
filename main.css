@@ -7,11 +7,18 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #df001b; }
+  background-color: black; }
 
 h1, p {
   font-family: 'Montserrat';
-  color: white; }
+  color: #79eb69; }
+
+h1 {
+  cursor: pointer; }
+
+p {
+  width: 50%;
+  text-align: center; }
 
 a {
   text-decoration: none;
